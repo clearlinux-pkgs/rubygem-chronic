@@ -4,7 +4,7 @@
 #
 Name     : rubygem-chronic
 Version  : 0.10.2
-Release  : 3
+Release  : 4
 URL      : https://rubygems.org/downloads/chronic-0.10.2.gem
 Source0  : https://rubygems.org/downloads/chronic-0.10.2.gem
 Summary  : No detailed summary available
